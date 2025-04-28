@@ -9,3 +9,6 @@ modular arithmtic and Euler’s totient function. RSA is widely used in secure d
 digital signatures, and key exchange mechanisms. Its asymmetric nature allows it to provide both 
 confidetiality and authentication, making it a critical component of modern network security 
 infrastructures. 
+## Other:
+Also Implemented Data Encryption Standard(DES) and Advanced Encryption Standard(AES).
+First run this command: pip install pycryptodome
